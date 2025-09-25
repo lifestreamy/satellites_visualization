@@ -186,7 +186,7 @@ if __name__ == '__main__':
     print("To run the full application, execute:\n")
     print("    python main.py\n")
     print("Important Notes:")
-    print("1. Before running the application, ensure you have set up your N2YO API key in config.py")
+    print("1. Before running the application, ensure you have set up your N2YO API key in config.py or plan to enter it through the application GUI")
     print("2. You can also load local ephemeris data in CSV format from the application interface")
     print("3. For best performance, Matplotlib should be configured to use an appropriate backend")
     print("4. All configurations are centralized in config.py")

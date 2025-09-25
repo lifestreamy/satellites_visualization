@@ -40,7 +40,7 @@ This application allows users to search for satellites near specific geographic 
 ## Configuration
 The application uses a configuration file to store API keys and default settings. Modify `config.py` to set:
 
-- `N2YO_API_KEY`: Your N2YO API key (required for real-time data)
+- `N2YO_API_KEY`: Your N2YO API key (required for real-time data). Default is an empty string - users must provide a valid key either in this file or through the application GUI
 - `DEFAULT_OBSERVATION_TIME`: Default observation time for searches
 - `DEFAULT_LATITUDE` and `DEFAULT_LONGITUDE`: Default location for searches
 - `DEFAULT_RADIUS`: Default search radius in kilometers

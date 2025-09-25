@@ -3,7 +3,8 @@
 # API keys configuration
 # Replace with your actual API key if you want to set a default
 # You can also set the API key through the application GUI
-N2YO_API_KEY = "YOUR_N2YO_API_KEY"
+# Default is empty string to allow proper validation checks
+N2YO_API_KEY = ""
 
 # Default values
 DEFAULT_OBSERVATION_TIME = "2025-01-01T00:00:00"
