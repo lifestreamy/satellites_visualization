@@ -128,4 +128,5 @@ If the specified CSV file is not found, this script will generate sample ephemer
 - API rate limiting may apply when using free-tier API keys
 
 ## License
-This project is for educational purposes.
+MIT License.
+This project is made for educational and personal research purposes.
