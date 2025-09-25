@@ -2,6 +2,16 @@
 
 An interactive application for tracking satellites and visualizing their proximity to specific locations on Earth.
 
+---
+*Satellites within the conical field of view defined by a 10 km surface radius centered on London, on 2025-01-01 00:00 UTC.*
+
+<table>
+  <tr>
+    <td style="text-align: center;"><img width="1493" height="1037" alt="London__10km_01-01-25-00-00" src="https://github.com/user-attachments/assets/1aba51fb-c09c-40fa-a81e-97c678ed006a" /><br><strong>Found Satellites</strong></td>
+    <td style="text-align: center;"><img width="1496" height="1035" alt="London__10km_01-01-25-00-00_visualized" src="https://github.com/user-attachments/assets/f884df8c-7938-41a9-8560-957334dbbf7a" /><br><strong>Visualized (rough, WIP)</strong></td>
+  </tr>
+</table>
+
 ## Table of Contents
 - [Overview](#overview)
 - [Features](#features)
