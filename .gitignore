@@ -1,0 +1,44 @@
+# Python virtual environment
+.venv/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE directories and files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Log files
+*.log
+
+# Configuration files with sensitive data
+# (Keep config.py but ignore local overrides)
+config.local.py
+
+# Build directories
+build/
+dist/
+*.egg-info/
+
+# Testing
+.coverage
+coverage.xml
+
+# Temporary files
+*.tmp
+*.temp
+.cache/
