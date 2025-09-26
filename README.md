@@ -2,6 +2,16 @@
 
 An interactive application for tracking satellites and visualizing their proximity to specific locations on Earth.
 
+## Development Approach
+
+This project was developed entirely through AI-assisted programming, demonstrating advanced prompt engineering and agent orchestration. The workflow involved:
+
+1. **Initial Generation**: Rapid prototyping via Perplexity Labs using strategic prompting
+2. **Refinement & Automation**: Code verification, restructuring, and git operations managed through Trae IDE agent  
+3. **Human Oversight**: Strategic direction, quality control, and complex problem-solving
+4. **Documentation**: README adjustment and final formatting with DeepSeek
+
+**Total development time**: ~1-2 hours of focused prompt engineering and agent coordination.
 ---
 *Satellites within the conical field of view defined by a 10 km surface radius centered on London, on 2025-01-01 00:00 UTC.*
 
